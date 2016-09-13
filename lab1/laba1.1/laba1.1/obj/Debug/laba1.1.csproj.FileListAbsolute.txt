@@ -1,0 +1,6 @@
+D:\магистратура\lab1\laba1.1\laba1.1\bin\Debug\laba1.1.exe.config
+D:\магистратура\lab1\laba1.1\laba1.1\bin\Debug\laba1.1.exe
+D:\магистратура\lab1\laba1.1\laba1.1\bin\Debug\laba1.1.pdb
+D:\магистратура\lab1\laba1.1\laba1.1\obj\Debug\laba1.1.exe
+D:\магистратура\lab1\laba1.1\laba1.1\obj\Debug\laba1.1.pdb
+D:\магистратура\lab1\laba1.1\laba1.1\obj\Debug\laba1.1.csprojResolveAssemblyReference.cache

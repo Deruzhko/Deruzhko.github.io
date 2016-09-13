@@ -1,0 +1,6 @@
+D:\магистратура\lab1\lab1.4\lab1.4\bin\Debug\lab1.4.exe.config
+D:\магистратура\lab1\lab1.4\lab1.4\bin\Debug\lab1.4.exe
+D:\магистратура\lab1\lab1.4\lab1.4\bin\Debug\lab1.4.pdb
+D:\магистратура\lab1\lab1.4\lab1.4\obj\Debug\lab1.4.csprojResolveAssemblyReference.cache
+D:\магистратура\lab1\lab1.4\lab1.4\obj\Debug\lab1.4.exe
+D:\магистратура\lab1\lab1.4\lab1.4\obj\Debug\lab1.4.pdb

@@ -1,0 +1,5 @@
+D:\магистратура\lab1\lab1.3\lab1.3\bin\Debug\lab1.3.exe.config
+D:\магистратура\lab1\lab1.3\lab1.3\bin\Debug\lab1.3.exe
+D:\магистратура\lab1\lab1.3\lab1.3\bin\Debug\lab1.3.pdb
+D:\магистратура\lab1\lab1.3\lab1.3\obj\Debug\lab1.3.exe
+D:\магистратура\lab1\lab1.3\lab1.3\obj\Debug\lab1.3.pdb
